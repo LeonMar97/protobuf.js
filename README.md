@@ -12,7 +12,7 @@ Contents
   How to include protobuf.js in your project.
 
 * [Usage](#usage)<br />
-  A brief introduction to using the toolset.
+  A brief introduction to using the toolset .
 
   * [Valid Message](#valid-message)
   * [Toolset](#toolset)<br />
